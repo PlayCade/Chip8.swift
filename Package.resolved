@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "common",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PlayCade/Common.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e1d5d06e05d7ad9c7c0d6cd767341e9a714ecd79"
+      }
+    }
+  ],
+  "version" : 2
+}
